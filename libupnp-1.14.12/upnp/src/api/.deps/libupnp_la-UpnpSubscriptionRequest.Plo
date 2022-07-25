@@ -1,0 +1,144 @@
+src/api/libupnp_la-UpnpSubscriptionRequest.lo: \
+ src/api/UpnpSubscriptionRequest.c \
+ /home/book/tina-d1-h/prebuilt/gcc/linux-x86/riscv/toolchain-thead-glibc/riscv64-glibc-gcc-thead_20200702/sysroot/usr/include/stdc-predef.h \
+ src/inc/config.h ../autoconfig.h \
+ /home/book/tina-d1-h/prebuilt/gcc/linux-x86/riscv/toolchain-thead-glibc/riscv64-glibc-gcc-thead_20200702/sysroot/usr/include/stdlib.h \
+ /home/book/tina-d1-h/prebuilt/gcc/linux-x86/riscv/toolchain-thead-glibc/riscv64-glibc-gcc-thead_20200702/sysroot/usr/include/bits/libc-header-start.h \
+ /home/book/tina-d1-h/prebuilt/gcc/linux-x86/riscv/toolchain-thead-glibc/riscv64-glibc-gcc-thead_20200702/sysroot/usr/include/features.h \
+ /home/book/tina-d1-h/prebuilt/gcc/linux-x86/riscv/toolchain-thead-glibc/riscv64-glibc-gcc-thead_20200702/sysroot/usr/include/sys/cdefs.h \
+ /home/book/tina-d1-h/prebuilt/gcc/linux-x86/riscv/toolchain-thead-glibc/riscv64-glibc-gcc-thead_20200702/sysroot/usr/include/bits/wordsize.h \
+ /home/book/tina-d1-h/prebuilt/gcc/linux-x86/riscv/toolchain-thead-glibc/riscv64-glibc-gcc-thead_20200702/sysroot/usr/include/bits/long-double.h \
+ /home/book/tina-d1-h/prebuilt/gcc/linux-x86/riscv/toolchain-thead-glibc/riscv64-glibc-gcc-thead_20200702/sysroot/usr/include/gnu/stubs.h \
+ /home/book/tina-d1-h/prebuilt/gcc/linux-x86/riscv/toolchain-thead-glibc/riscv64-glibc-gcc-thead_20200702/sysroot/usr/include/gnu/stubs-lp64d.h \
+ /home/book/tina-d1-h/prebuilt/gcc/linux-x86/riscv/toolchain-thead-glibc/riscv64-glibc-gcc-thead_20200702/lib/gcc/riscv64-unknown-linux-gnu/8.1.0/include/stddef.h \
+ /home/book/tina-d1-h/prebuilt/gcc/linux-x86/riscv/toolchain-thead-glibc/riscv64-glibc-gcc-thead_20200702/sysroot/usr/include/bits/waitflags.h \
+ /home/book/tina-d1-h/prebuilt/gcc/linux-x86/riscv/toolchain-thead-glibc/riscv64-glibc-gcc-thead_20200702/sysroot/usr/include/bits/waitstatus.h \
+ /home/book/tina-d1-h/prebuilt/gcc/linux-x86/riscv/toolchain-thead-glibc/riscv64-glibc-gcc-thead_20200702/sysroot/usr/include/bits/floatn.h \
+ /home/book/tina-d1-h/prebuilt/gcc/linux-x86/riscv/toolchain-thead-glibc/riscv64-glibc-gcc-thead_20200702/sysroot/usr/include/bits/floatn-common.h \
+ /home/book/tina-d1-h/prebuilt/gcc/linux-x86/riscv/toolchain-thead-glibc/riscv64-glibc-gcc-thead_20200702/sysroot/usr/include/sys/types.h \
+ /home/book/tina-d1-h/prebuilt/gcc/linux-x86/riscv/toolchain-thead-glibc/riscv64-glibc-gcc-thead_20200702/sysroot/usr/include/bits/types.h \
+ /home/book/tina-d1-h/prebuilt/gcc/linux-x86/riscv/toolchain-thead-glibc/riscv64-glibc-gcc-thead_20200702/sysroot/usr/include/bits/timesize.h \
+ /home/book/tina-d1-h/prebuilt/gcc/linux-x86/riscv/toolchain-thead-glibc/riscv64-glibc-gcc-thead_20200702/sysroot/usr/include/bits/typesizes.h \
+ /home/book/tina-d1-h/prebuilt/gcc/linux-x86/riscv/toolchain-thead-glibc/riscv64-glibc-gcc-thead_20200702/sysroot/usr/include/bits/time64.h \
+ /home/book/tina-d1-h/prebuilt/gcc/linux-x86/riscv/toolchain-thead-glibc/riscv64-glibc-gcc-thead_20200702/sysroot/usr/include/bits/types/clock_t.h \
+ /home/book/tina-d1-h/prebuilt/gcc/linux-x86/riscv/toolchain-thead-glibc/riscv64-glibc-gcc-thead_20200702/sysroot/usr/include/bits/types/clockid_t.h \
+ /home/book/tina-d1-h/prebuilt/gcc/linux-x86/riscv/toolchain-thead-glibc/riscv64-glibc-gcc-thead_20200702/sysroot/usr/include/bits/types/time_t.h \
+ /home/book/tina-d1-h/prebuilt/gcc/linux-x86/riscv/toolchain-thead-glibc/riscv64-glibc-gcc-thead_20200702/sysroot/usr/include/bits/types/timer_t.h \
+ /home/book/tina-d1-h/prebuilt/gcc/linux-x86/riscv/toolchain-thead-glibc/riscv64-glibc-gcc-thead_20200702/sysroot/usr/include/bits/stdint-intn.h \
+ /home/book/tina-d1-h/prebuilt/gcc/linux-x86/riscv/toolchain-thead-glibc/riscv64-glibc-gcc-thead_20200702/sysroot/usr/include/endian.h \
+ /home/book/tina-d1-h/prebuilt/gcc/linux-x86/riscv/toolchain-thead-glibc/riscv64-glibc-gcc-thead_20200702/sysroot/usr/include/bits/endian.h \
+ /home/book/tina-d1-h/prebuilt/gcc/linux-x86/riscv/toolchain-thead-glibc/riscv64-glibc-gcc-thead_20200702/sysroot/usr/include/bits/byteswap.h \
+ /home/book/tina-d1-h/prebuilt/gcc/linux-x86/riscv/toolchain-thead-glibc/riscv64-glibc-gcc-thead_20200702/sysroot/usr/include/bits/uintn-identity.h \
+ /home/book/tina-d1-h/prebuilt/gcc/linux-x86/riscv/toolchain-thead-glibc/riscv64-glibc-gcc-thead_20200702/sysroot/usr/include/sys/select.h \
+ /home/book/tina-d1-h/prebuilt/gcc/linux-x86/riscv/toolchain-thead-glibc/riscv64-glibc-gcc-thead_20200702/sysroot/usr/include/bits/select.h \
+ /home/book/tina-d1-h/prebuilt/gcc/linux-x86/riscv/toolchain-thead-glibc/riscv64-glibc-gcc-thead_20200702/sysroot/usr/include/bits/types/sigset_t.h \
+ /home/book/tina-d1-h/prebuilt/gcc/linux-x86/riscv/toolchain-thead-glibc/riscv64-glibc-gcc-thead_20200702/sysroot/usr/include/bits/types/__sigset_t.h \
+ /home/book/tina-d1-h/prebuilt/gcc/linux-x86/riscv/toolchain-thead-glibc/riscv64-glibc-gcc-thead_20200702/sysroot/usr/include/bits/types/struct_timeval.h \
+ /home/book/tina-d1-h/prebuilt/gcc/linux-x86/riscv/toolchain-thead-glibc/riscv64-glibc-gcc-thead_20200702/sysroot/usr/include/bits/types/struct_timespec.h \
+ /home/book/tina-d1-h/prebuilt/gcc/linux-x86/riscv/toolchain-thead-glibc/riscv64-glibc-gcc-thead_20200702/sysroot/usr/include/bits/pthreadtypes.h \
+ /home/book/tina-d1-h/prebuilt/gcc/linux-x86/riscv/toolchain-thead-glibc/riscv64-glibc-gcc-thead_20200702/sysroot/usr/include/bits/thread-shared-types.h \
+ /home/book/tina-d1-h/prebuilt/gcc/linux-x86/riscv/toolchain-thead-glibc/riscv64-glibc-gcc-thead_20200702/sysroot/usr/include/bits/pthreadtypes-arch.h \
+ /home/book/tina-d1-h/prebuilt/gcc/linux-x86/riscv/toolchain-thead-glibc/riscv64-glibc-gcc-thead_20200702/sysroot/usr/include/alloca.h \
+ /home/book/tina-d1-h/prebuilt/gcc/linux-x86/riscv/toolchain-thead-glibc/riscv64-glibc-gcc-thead_20200702/sysroot/usr/include/bits/stdlib-float.h \
+ /home/book/tina-d1-h/prebuilt/gcc/linux-x86/riscv/toolchain-thead-glibc/riscv64-glibc-gcc-thead_20200702/sysroot/usr/include/string.h \
+ /home/book/tina-d1-h/prebuilt/gcc/linux-x86/riscv/toolchain-thead-glibc/riscv64-glibc-gcc-thead_20200702/sysroot/usr/include/bits/types/locale_t.h \
+ /home/book/tina-d1-h/prebuilt/gcc/linux-x86/riscv/toolchain-thead-glibc/riscv64-glibc-gcc-thead_20200702/sysroot/usr/include/bits/types/__locale_t.h \
+ /home/book/tina-d1-h/prebuilt/gcc/linux-x86/riscv/toolchain-thead-glibc/riscv64-glibc-gcc-thead_20200702/sysroot/usr/include/strings.h \
+ ../upnp/inc/UpnpSubscriptionRequest.h ../upnp/inc/UpnpGlobal.h \
+ ../upnp/inc/UpnpString.h
+
+/home/book/tina-d1-h/prebuilt/gcc/linux-x86/riscv/toolchain-thead-glibc/riscv64-glibc-gcc-thead_20200702/sysroot/usr/include/stdc-predef.h:
+
+src/inc/config.h:
+
+../autoconfig.h:
+
+/home/book/tina-d1-h/prebuilt/gcc/linux-x86/riscv/toolchain-thead-glibc/riscv64-glibc-gcc-thead_20200702/sysroot/usr/include/stdlib.h:
+
+/home/book/tina-d1-h/prebuilt/gcc/linux-x86/riscv/toolchain-thead-glibc/riscv64-glibc-gcc-thead_20200702/sysroot/usr/include/bits/libc-header-start.h:
+
+/home/book/tina-d1-h/prebuilt/gcc/linux-x86/riscv/toolchain-thead-glibc/riscv64-glibc-gcc-thead_20200702/sysroot/usr/include/features.h:
+
+/home/book/tina-d1-h/prebuilt/gcc/linux-x86/riscv/toolchain-thead-glibc/riscv64-glibc-gcc-thead_20200702/sysroot/usr/include/sys/cdefs.h:
+
+/home/book/tina-d1-h/prebuilt/gcc/linux-x86/riscv/toolchain-thead-glibc/riscv64-glibc-gcc-thead_20200702/sysroot/usr/include/bits/wordsize.h:
+
+/home/book/tina-d1-h/prebuilt/gcc/linux-x86/riscv/toolchain-thead-glibc/riscv64-glibc-gcc-thead_20200702/sysroot/usr/include/bits/long-double.h:
+
+/home/book/tina-d1-h/prebuilt/gcc/linux-x86/riscv/toolchain-thead-glibc/riscv64-glibc-gcc-thead_20200702/sysroot/usr/include/gnu/stubs.h:
+
+/home/book/tina-d1-h/prebuilt/gcc/linux-x86/riscv/toolchain-thead-glibc/riscv64-glibc-gcc-thead_20200702/sysroot/usr/include/gnu/stubs-lp64d.h:
+
+/home/book/tina-d1-h/prebuilt/gcc/linux-x86/riscv/toolchain-thead-glibc/riscv64-glibc-gcc-thead_20200702/lib/gcc/riscv64-unknown-linux-gnu/8.1.0/include/stddef.h:
+
+/home/book/tina-d1-h/prebuilt/gcc/linux-x86/riscv/toolchain-thead-glibc/riscv64-glibc-gcc-thead_20200702/sysroot/usr/include/bits/waitflags.h:
+
+/home/book/tina-d1-h/prebuilt/gcc/linux-x86/riscv/toolchain-thead-glibc/riscv64-glibc-gcc-thead_20200702/sysroot/usr/include/bits/waitstatus.h:
+
+/home/book/tina-d1-h/prebuilt/gcc/linux-x86/riscv/toolchain-thead-glibc/riscv64-glibc-gcc-thead_20200702/sysroot/usr/include/bits/floatn.h:
+
+/home/book/tina-d1-h/prebuilt/gcc/linux-x86/riscv/toolchain-thead-glibc/riscv64-glibc-gcc-thead_20200702/sysroot/usr/include/bits/floatn-common.h:
+
+/home/book/tina-d1-h/prebuilt/gcc/linux-x86/riscv/toolchain-thead-glibc/riscv64-glibc-gcc-thead_20200702/sysroot/usr/include/sys/types.h:
+
+/home/book/tina-d1-h/prebuilt/gcc/linux-x86/riscv/toolchain-thead-glibc/riscv64-glibc-gcc-thead_20200702/sysroot/usr/include/bits/types.h:
+
+/home/book/tina-d1-h/prebuilt/gcc/linux-x86/riscv/toolchain-thead-glibc/riscv64-glibc-gcc-thead_20200702/sysroot/usr/include/bits/timesize.h:
+
+/home/book/tina-d1-h/prebuilt/gcc/linux-x86/riscv/toolchain-thead-glibc/riscv64-glibc-gcc-thead_20200702/sysroot/usr/include/bits/typesizes.h:
+
+/home/book/tina-d1-h/prebuilt/gcc/linux-x86/riscv/toolchain-thead-glibc/riscv64-glibc-gcc-thead_20200702/sysroot/usr/include/bits/time64.h:
+
+/home/book/tina-d1-h/prebuilt/gcc/linux-x86/riscv/toolchain-thead-glibc/riscv64-glibc-gcc-thead_20200702/sysroot/usr/include/bits/types/clock_t.h:
+
+/home/book/tina-d1-h/prebuilt/gcc/linux-x86/riscv/toolchain-thead-glibc/riscv64-glibc-gcc-thead_20200702/sysroot/usr/include/bits/types/clockid_t.h:
+
+/home/book/tina-d1-h/prebuilt/gcc/linux-x86/riscv/toolchain-thead-glibc/riscv64-glibc-gcc-thead_20200702/sysroot/usr/include/bits/types/time_t.h:
+
+/home/book/tina-d1-h/prebuilt/gcc/linux-x86/riscv/toolchain-thead-glibc/riscv64-glibc-gcc-thead_20200702/sysroot/usr/include/bits/types/timer_t.h:
+
+/home/book/tina-d1-h/prebuilt/gcc/linux-x86/riscv/toolchain-thead-glibc/riscv64-glibc-gcc-thead_20200702/sysroot/usr/include/bits/stdint-intn.h:
+
+/home/book/tina-d1-h/prebuilt/gcc/linux-x86/riscv/toolchain-thead-glibc/riscv64-glibc-gcc-thead_20200702/sysroot/usr/include/endian.h:
+
+/home/book/tina-d1-h/prebuilt/gcc/linux-x86/riscv/toolchain-thead-glibc/riscv64-glibc-gcc-thead_20200702/sysroot/usr/include/bits/endian.h:
+
+/home/book/tina-d1-h/prebuilt/gcc/linux-x86/riscv/toolchain-thead-glibc/riscv64-glibc-gcc-thead_20200702/sysroot/usr/include/bits/byteswap.h:
+
+/home/book/tina-d1-h/prebuilt/gcc/linux-x86/riscv/toolchain-thead-glibc/riscv64-glibc-gcc-thead_20200702/sysroot/usr/include/bits/uintn-identity.h:
+
+/home/book/tina-d1-h/prebuilt/gcc/linux-x86/riscv/toolchain-thead-glibc/riscv64-glibc-gcc-thead_20200702/sysroot/usr/include/sys/select.h:
+
+/home/book/tina-d1-h/prebuilt/gcc/linux-x86/riscv/toolchain-thead-glibc/riscv64-glibc-gcc-thead_20200702/sysroot/usr/include/bits/select.h:
+
+/home/book/tina-d1-h/prebuilt/gcc/linux-x86/riscv/toolchain-thead-glibc/riscv64-glibc-gcc-thead_20200702/sysroot/usr/include/bits/types/sigset_t.h:
+
+/home/book/tina-d1-h/prebuilt/gcc/linux-x86/riscv/toolchain-thead-glibc/riscv64-glibc-gcc-thead_20200702/sysroot/usr/include/bits/types/__sigset_t.h:
+
+/home/book/tina-d1-h/prebuilt/gcc/linux-x86/riscv/toolchain-thead-glibc/riscv64-glibc-gcc-thead_20200702/sysroot/usr/include/bits/types/struct_timeval.h:
+
+/home/book/tina-d1-h/prebuilt/gcc/linux-x86/riscv/toolchain-thead-glibc/riscv64-glibc-gcc-thead_20200702/sysroot/usr/include/bits/types/struct_timespec.h:
+
+/home/book/tina-d1-h/prebuilt/gcc/linux-x86/riscv/toolchain-thead-glibc/riscv64-glibc-gcc-thead_20200702/sysroot/usr/include/bits/pthreadtypes.h:
+
+/home/book/tina-d1-h/prebuilt/gcc/linux-x86/riscv/toolchain-thead-glibc/riscv64-glibc-gcc-thead_20200702/sysroot/usr/include/bits/thread-shared-types.h:
+
+/home/book/tina-d1-h/prebuilt/gcc/linux-x86/riscv/toolchain-thead-glibc/riscv64-glibc-gcc-thead_20200702/sysroot/usr/include/bits/pthreadtypes-arch.h:
+
+/home/book/tina-d1-h/prebuilt/gcc/linux-x86/riscv/toolchain-thead-glibc/riscv64-glibc-gcc-thead_20200702/sysroot/usr/include/alloca.h:
+
+/home/book/tina-d1-h/prebuilt/gcc/linux-x86/riscv/toolchain-thead-glibc/riscv64-glibc-gcc-thead_20200702/sysroot/usr/include/bits/stdlib-float.h:
+
+/home/book/tina-d1-h/prebuilt/gcc/linux-x86/riscv/toolchain-thead-glibc/riscv64-glibc-gcc-thead_20200702/sysroot/usr/include/string.h:
+
+/home/book/tina-d1-h/prebuilt/gcc/linux-x86/riscv/toolchain-thead-glibc/riscv64-glibc-gcc-thead_20200702/sysroot/usr/include/bits/types/locale_t.h:
+
+/home/book/tina-d1-h/prebuilt/gcc/linux-x86/riscv/toolchain-thead-glibc/riscv64-glibc-gcc-thead_20200702/sysroot/usr/include/bits/types/__locale_t.h:
+
+/home/book/tina-d1-h/prebuilt/gcc/linux-x86/riscv/toolchain-thead-glibc/riscv64-glibc-gcc-thead_20200702/sysroot/usr/include/strings.h:
+
+../upnp/inc/UpnpSubscriptionRequest.h:
+
+../upnp/inc/UpnpGlobal.h:
+
+../upnp/inc/UpnpString.h:

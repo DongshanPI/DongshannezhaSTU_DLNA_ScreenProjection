@@ -1,0 +1,3 @@
+/home/book/Allwinner/tprender/CMakeFiles/rebuild_cache.dir
+/home/book/Allwinner/tprender/CMakeFiles/tprender.dir
+/home/book/Allwinner/tprender/CMakeFiles/edit_cache.dir

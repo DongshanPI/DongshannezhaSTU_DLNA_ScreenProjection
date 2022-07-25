@@ -1,0 +1,77 @@
+src/uuid/libupnp_la-md5.lo: src/uuid/md5.c \
+ /home/book/tina-d1-h/prebuilt/gcc/linux-x86/riscv/toolchain-thead-glibc/riscv64-glibc-gcc-thead_20200702/sysroot/usr/include/stdc-predef.h \
+ src/inc/config.h ../autoconfig.h src/inc/md5.h \
+ /home/book/tina-d1-h/prebuilt/gcc/linux-x86/riscv/toolchain-thead-glibc/riscv64-glibc-gcc-thead_20200702/lib/gcc/riscv64-unknown-linux-gnu/8.1.0/include/stddef.h \
+ ../upnp/inc/UpnpStdInt.h \
+ /home/book/tina-d1-h/prebuilt/gcc/linux-x86/riscv/toolchain-thead-glibc/riscv64-glibc-gcc-thead_20200702/lib/gcc/riscv64-unknown-linux-gnu/8.1.0/include/stdint.h \
+ /home/book/tina-d1-h/prebuilt/gcc/linux-x86/riscv/toolchain-thead-glibc/riscv64-glibc-gcc-thead_20200702/sysroot/usr/include/stdint.h \
+ /home/book/tina-d1-h/prebuilt/gcc/linux-x86/riscv/toolchain-thead-glibc/riscv64-glibc-gcc-thead_20200702/sysroot/usr/include/bits/libc-header-start.h \
+ /home/book/tina-d1-h/prebuilt/gcc/linux-x86/riscv/toolchain-thead-glibc/riscv64-glibc-gcc-thead_20200702/sysroot/usr/include/features.h \
+ /home/book/tina-d1-h/prebuilt/gcc/linux-x86/riscv/toolchain-thead-glibc/riscv64-glibc-gcc-thead_20200702/sysroot/usr/include/sys/cdefs.h \
+ /home/book/tina-d1-h/prebuilt/gcc/linux-x86/riscv/toolchain-thead-glibc/riscv64-glibc-gcc-thead_20200702/sysroot/usr/include/bits/wordsize.h \
+ /home/book/tina-d1-h/prebuilt/gcc/linux-x86/riscv/toolchain-thead-glibc/riscv64-glibc-gcc-thead_20200702/sysroot/usr/include/bits/long-double.h \
+ /home/book/tina-d1-h/prebuilt/gcc/linux-x86/riscv/toolchain-thead-glibc/riscv64-glibc-gcc-thead_20200702/sysroot/usr/include/gnu/stubs.h \
+ /home/book/tina-d1-h/prebuilt/gcc/linux-x86/riscv/toolchain-thead-glibc/riscv64-glibc-gcc-thead_20200702/sysroot/usr/include/gnu/stubs-lp64d.h \
+ /home/book/tina-d1-h/prebuilt/gcc/linux-x86/riscv/toolchain-thead-glibc/riscv64-glibc-gcc-thead_20200702/sysroot/usr/include/bits/types.h \
+ /home/book/tina-d1-h/prebuilt/gcc/linux-x86/riscv/toolchain-thead-glibc/riscv64-glibc-gcc-thead_20200702/sysroot/usr/include/bits/timesize.h \
+ /home/book/tina-d1-h/prebuilt/gcc/linux-x86/riscv/toolchain-thead-glibc/riscv64-glibc-gcc-thead_20200702/sysroot/usr/include/bits/typesizes.h \
+ /home/book/tina-d1-h/prebuilt/gcc/linux-x86/riscv/toolchain-thead-glibc/riscv64-glibc-gcc-thead_20200702/sysroot/usr/include/bits/time64.h \
+ /home/book/tina-d1-h/prebuilt/gcc/linux-x86/riscv/toolchain-thead-glibc/riscv64-glibc-gcc-thead_20200702/sysroot/usr/include/bits/wchar.h \
+ /home/book/tina-d1-h/prebuilt/gcc/linux-x86/riscv/toolchain-thead-glibc/riscv64-glibc-gcc-thead_20200702/sysroot/usr/include/bits/stdint-intn.h \
+ /home/book/tina-d1-h/prebuilt/gcc/linux-x86/riscv/toolchain-thead-glibc/riscv64-glibc-gcc-thead_20200702/sysroot/usr/include/bits/stdint-uintn.h \
+ /home/book/tina-d1-h/prebuilt/gcc/linux-x86/riscv/toolchain-thead-glibc/riscv64-glibc-gcc-thead_20200702/sysroot/usr/include/string.h \
+ /home/book/tina-d1-h/prebuilt/gcc/linux-x86/riscv/toolchain-thead-glibc/riscv64-glibc-gcc-thead_20200702/sysroot/usr/include/bits/types/locale_t.h \
+ /home/book/tina-d1-h/prebuilt/gcc/linux-x86/riscv/toolchain-thead-glibc/riscv64-glibc-gcc-thead_20200702/sysroot/usr/include/bits/types/__locale_t.h \
+ /home/book/tina-d1-h/prebuilt/gcc/linux-x86/riscv/toolchain-thead-glibc/riscv64-glibc-gcc-thead_20200702/sysroot/usr/include/strings.h
+
+/home/book/tina-d1-h/prebuilt/gcc/linux-x86/riscv/toolchain-thead-glibc/riscv64-glibc-gcc-thead_20200702/sysroot/usr/include/stdc-predef.h:
+
+src/inc/config.h:
+
+../autoconfig.h:
+
+src/inc/md5.h:
+
+/home/book/tina-d1-h/prebuilt/gcc/linux-x86/riscv/toolchain-thead-glibc/riscv64-glibc-gcc-thead_20200702/lib/gcc/riscv64-unknown-linux-gnu/8.1.0/include/stddef.h:
+
+../upnp/inc/UpnpStdInt.h:
+
+/home/book/tina-d1-h/prebuilt/gcc/linux-x86/riscv/toolchain-thead-glibc/riscv64-glibc-gcc-thead_20200702/lib/gcc/riscv64-unknown-linux-gnu/8.1.0/include/stdint.h:
+
+/home/book/tina-d1-h/prebuilt/gcc/linux-x86/riscv/toolchain-thead-glibc/riscv64-glibc-gcc-thead_20200702/sysroot/usr/include/stdint.h:
+
+/home/book/tina-d1-h/prebuilt/gcc/linux-x86/riscv/toolchain-thead-glibc/riscv64-glibc-gcc-thead_20200702/sysroot/usr/include/bits/libc-header-start.h:
+
+/home/book/tina-d1-h/prebuilt/gcc/linux-x86/riscv/toolchain-thead-glibc/riscv64-glibc-gcc-thead_20200702/sysroot/usr/include/features.h:
+
+/home/book/tina-d1-h/prebuilt/gcc/linux-x86/riscv/toolchain-thead-glibc/riscv64-glibc-gcc-thead_20200702/sysroot/usr/include/sys/cdefs.h:
+
+/home/book/tina-d1-h/prebuilt/gcc/linux-x86/riscv/toolchain-thead-glibc/riscv64-glibc-gcc-thead_20200702/sysroot/usr/include/bits/wordsize.h:
+
+/home/book/tina-d1-h/prebuilt/gcc/linux-x86/riscv/toolchain-thead-glibc/riscv64-glibc-gcc-thead_20200702/sysroot/usr/include/bits/long-double.h:
+
+/home/book/tina-d1-h/prebuilt/gcc/linux-x86/riscv/toolchain-thead-glibc/riscv64-glibc-gcc-thead_20200702/sysroot/usr/include/gnu/stubs.h:
+
+/home/book/tina-d1-h/prebuilt/gcc/linux-x86/riscv/toolchain-thead-glibc/riscv64-glibc-gcc-thead_20200702/sysroot/usr/include/gnu/stubs-lp64d.h:
+
+/home/book/tina-d1-h/prebuilt/gcc/linux-x86/riscv/toolchain-thead-glibc/riscv64-glibc-gcc-thead_20200702/sysroot/usr/include/bits/types.h:
+
+/home/book/tina-d1-h/prebuilt/gcc/linux-x86/riscv/toolchain-thead-glibc/riscv64-glibc-gcc-thead_20200702/sysroot/usr/include/bits/timesize.h:
+
+/home/book/tina-d1-h/prebuilt/gcc/linux-x86/riscv/toolchain-thead-glibc/riscv64-glibc-gcc-thead_20200702/sysroot/usr/include/bits/typesizes.h:
+
+/home/book/tina-d1-h/prebuilt/gcc/linux-x86/riscv/toolchain-thead-glibc/riscv64-glibc-gcc-thead_20200702/sysroot/usr/include/bits/time64.h:
+
+/home/book/tina-d1-h/prebuilt/gcc/linux-x86/riscv/toolchain-thead-glibc/riscv64-glibc-gcc-thead_20200702/sysroot/usr/include/bits/wchar.h:
+
+/home/book/tina-d1-h/prebuilt/gcc/linux-x86/riscv/toolchain-thead-glibc/riscv64-glibc-gcc-thead_20200702/sysroot/usr/include/bits/stdint-intn.h:
+
+/home/book/tina-d1-h/prebuilt/gcc/linux-x86/riscv/toolchain-thead-glibc/riscv64-glibc-gcc-thead_20200702/sysroot/usr/include/bits/stdint-uintn.h:
+
+/home/book/tina-d1-h/prebuilt/gcc/linux-x86/riscv/toolchain-thead-glibc/riscv64-glibc-gcc-thead_20200702/sysroot/usr/include/string.h:
+
+/home/book/tina-d1-h/prebuilt/gcc/linux-x86/riscv/toolchain-thead-glibc/riscv64-glibc-gcc-thead_20200702/sysroot/usr/include/bits/types/locale_t.h:
+
+/home/book/tina-d1-h/prebuilt/gcc/linux-x86/riscv/toolchain-thead-glibc/riscv64-glibc-gcc-thead_20200702/sysroot/usr/include/bits/types/__locale_t.h:
+
+/home/book/tina-d1-h/prebuilt/gcc/linux-x86/riscv/toolchain-thead-glibc/riscv64-glibc-gcc-thead_20200702/sysroot/usr/include/strings.h:

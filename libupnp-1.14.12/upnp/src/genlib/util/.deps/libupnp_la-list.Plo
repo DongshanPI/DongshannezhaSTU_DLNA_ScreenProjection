@@ -1,0 +1,9 @@
+src/genlib/util/libupnp_la-list.lo: src/genlib/util/list.c \
+ /home/book/tina-d1-h/prebuilt/gcc/linux-x86/riscv/toolchain-thead-glibc/riscv64-glibc-gcc-thead_20200702/sysroot/usr/include/stdc-predef.h \
+ ../upnp/inc/list.h ../upnp/inc/UpnpGlobal.h
+
+/home/book/tina-d1-h/prebuilt/gcc/linux-x86/riscv/toolchain-thead-glibc/riscv64-glibc-gcc-thead_20200702/sysroot/usr/include/stdc-predef.h:
+
+../upnp/inc/list.h:
+
+../upnp/inc/UpnpGlobal.h:
